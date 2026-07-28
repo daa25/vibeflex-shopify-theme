@@ -1,0 +1,18 @@
+{
+  "premium_tee": {
+    "vendor": "VibeFlex Sports",
+    "product_type": "T-Shirts",
+    "colors": ["Black", "White", "Navy"],
+    "sizes": ["S", "M", "L", "XL", "2XL", "3XL"],
+    "price": "34.00",
+    "tags": ["VibeFlex", "Premium Tee", "Faith", "Performance Lifestyle"]
+  },
+  "premium_hoodie": {
+    "vendor": "VibeFlex Sports",
+    "product_type": "Hoodies",
+    "colors": ["Black", "Navy", "Sport Grey"],
+    "sizes": ["S", "M", "L", "XL", "2XL", "3XL"],
+    "price": "59.00",
+    "tags": ["VibeFlex", "Premium Hoodie", "490", "Performance Lifestyle"]
+  }
+}
